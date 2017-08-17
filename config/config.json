@@ -15,10 +15,7 @@
   },
   "production": {
     "use_env_variable":"JawsDB_URL",
-    // "username": "txmywchms2cu0i59",
-    // "password": "kyrkhwokujz2bgzj",
-    // "database": "burgers_db",
-    // "host": "dyud5fa2qycz1o3v.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+
     "dialect": "mysql"
   }
 }
